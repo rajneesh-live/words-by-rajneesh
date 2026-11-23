@@ -8,6 +8,12 @@
   A lightning-fast, privacy-first Progressive Web App (PWA) to search, explore, and read thousands of Osho discourses completely offline.
 </p>
 
+
+<p align="center">
+<a href="https://rajneesh-live.github.io/words-by-rajneesh/">https://rajneesh-live.github.io/words-by-rajneesh/</a>
+</p>
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/PWA-Enabled-orange.svg" alt="PWA Enabled">
   <img src="https://img.shields.io/badge/Offline-IndexedDB-blue.svg" alt="Offline IndexedDB">
